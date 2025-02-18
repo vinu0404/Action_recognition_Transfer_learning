@@ -3,6 +3,6 @@ BATCH_SIZE = 32
 CLASSES = ["ApplyEyeMakeup", "ApplyLipstick", "Archery"]
 DATASET_PATH = "dataset"
 MODEL_PATH = "model.h5" 
-VIDEO_SOURCE = "test_videos/vid.avi"
+VIDEO_SOURCE = "test_videos/videos.avi"
 RTSP_STREAM = "rtsp://localhost:8554/stream"
 RESULTS_STREAM = "rtsp://localhost:8555/results"

@@ -1,0 +1,7 @@
+opencv-python==4.5.5.64
+tensorflow==2.12.0  
+numpy==1.23.5
+matplotlib==3.7.0
+flask==2.2.3
+glob2==0.7
+kaggle==1.5.16
